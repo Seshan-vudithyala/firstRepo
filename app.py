@@ -1,1 +1,1 @@
-application
+print("hello")
